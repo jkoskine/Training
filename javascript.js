@@ -6,3 +6,6 @@ console.log(friends);
 
 friends[1] = "Janne";
 console.log(friends);
+
+friends.push("Jormas");
+console.log(friends);

@@ -9,3 +9,5 @@ console.log(friends);
 
 friends.push("Jormas");
 console.log(friends);
+
+friends.push("David");

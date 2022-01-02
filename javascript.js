@@ -12,6 +12,3 @@ console.log(friends);
 
 friends.push("Keijo");
 console.log(friends);
-
-friends.push("redrama");
-console.log(friends);

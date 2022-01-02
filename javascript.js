@@ -12,3 +12,6 @@ console.log(friends);
 
 friends.push("Keijo");
 console.log(friends);
+
+friends.push("Barbababa");
+console.log(friends);

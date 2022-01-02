@@ -14,5 +14,4 @@ console.log(friends);
 friends.push("Keijo");
 console.log(friends);
 =======
-friends.push("David");
 >>>>>>> 19a71f1cca8fdc64ed99f05df84811691eda0ca1

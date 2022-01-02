@@ -9,3 +9,6 @@ console.log(friends);
 
 friends.push("Jormas");
 console.log(friends);
+
+friends.push("Keijo");
+console.log(friends);

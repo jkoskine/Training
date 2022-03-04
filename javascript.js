@@ -1,11 +1,25 @@
+/*
+bmi calculator by using objects
 
-console.log("some output");
-console.log(1+1);
 
-const friends = ["Mikko", "Pate", "Hilma", "Xavier"];
-console.log(friends);
+*/
 
-const friends2 = ["Mikko", "matti", "Hilma", "Xavier"];
-console.log(friends2);
+const Samuel = {
+    firstname: "Samuel",
+    mass: 75,
+    height: 1.90
+};
 
-console.log("Rai rai win 11");
+const Jeff = {
+    firstname: "Jeff",
+    mass: 78,
+    height: 1.69,
+
+    calcBmi: function() {  
+        return this.bmi = this.mass / (this.height*this.height);
+    },
+};
+
+
+
+console.log(Jeff.calcBmi());

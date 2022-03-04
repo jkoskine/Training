@@ -7,3 +7,5 @@ console.log(friends);
 
 const friends2 = ["Mikko", "matti", "Hilma", "Xavier"];
 console.log(friends2);
+
+console.log("Rai rai win 11");

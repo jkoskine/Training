@@ -2,7 +2,7 @@
 bmi calculator by using objects
 
 
-*/
+
 
 const Samuel = {
     firstname: "Samuel",
@@ -23,3 +23,29 @@ const Jeff = {
 
 
 console.log(Jeff.calcBmi());
+
+*/
+
+/* 
+too loops
+
+*/
+
+console.log(`FOR -loop....`);
+
+for (let i = 1; i < 6; i++){
+    console.log(`ISO kierros ${i}`);
+    for (let i = 1; i < 4; i++){
+    console.log(`pikku kierros ${i}`)
+    }
+
+}
+
+console.log("_____________");
+console.log("WHILE -loop...");
+
+let i = 1;
+while (i <= 5){
+console.log(`Whiiii ${i}`);
+i++;
+}
